@@ -1,0 +1,13 @@
+input{
+    width: 200px;
+    color: black;
+    font-size: 30px;
+}
+
+input:in-range{
+    background-color: green;
+    
+}
+input:out-of-range{
+    background-color: red;
+}
