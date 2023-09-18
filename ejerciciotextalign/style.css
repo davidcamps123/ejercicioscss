@@ -1,26 +1,23 @@
-html{
+html {
     background-color: bisque;
 }
 
- 
- 
-
-
-div{
+div {
     border: 2px solid black;
     padding: 10px;
     width: 200px;
     margin: 40px auto;
-    
-    
     background-color: rgba(189, 181, 181, 0.461);
 }
-#div1{
+
+#div1 {
     text-align: left;
 }
-#div2{
+
+#div2 {
     text-align: center;
 }
-#div3{
+
+#div3 {
     text-align: right;
 }
