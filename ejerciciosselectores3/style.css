@@ -9,18 +9,20 @@
 7) [href|="https://www.yahoo.com"]
 8) [class^="title"]
 9) [href$=".com"]
-10) 
+10) [class~="title"]
 11) [href*="127"]
 12) [href^="http"]
-13)
+13) a, p, h1
 14) main p
-15) 
-
-
+15) h1 + *
+16) h1 ~ *
+17) main > *
 
 */
-[class^="title"]{
-    background-color: red;
-}
+
+
+
+
+
 
 
