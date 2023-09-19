@@ -1,0 +1,97 @@
+@media(max-width:320px) {
+    .divsIm{
+        margin-bottom: 10px;
+    }
+    #divorange1{
+        height: 30px;
+        background-color: orange;
+    }
+    #divorange2{
+        height: 30px;
+        background-color: orange;
+    }
+    #divamarillo{
+        height: 80px;
+        background-color: yellow;
+    }
+    #divazul1{
+        height: 270px;
+        background-color: blue;
+    }
+    #divazul2{
+        height: 270px;
+        background-color: blue;
+    }
+    #divazul3{
+        height: 270px;
+        background-color: blue;
+    }
+    #divgris1{
+        height: 180px;
+        background-color: grey;
+    }
+    #divgris2{
+        height: 180px;
+        background-color: grey;
+    }
+    #divgris3{
+        height: 180px;
+        background-color: grey;
+    }
+    #divgris4{
+        height: 180px;
+        background-color: grey;
+    }
+}
+
+@media(max-width:768px) {
+    .divsIm{
+        margin-bottom: 10px;
+    }
+    #divorange1{
+        height: 30px;
+        background-color: orange;
+    }
+    #divorange2{
+        height: 30px;
+        background-color: orange;
+    }
+    #divamarillo{
+        height: 80px;
+        background-color: yellow;
+    }
+    #divazul1{
+        height: 270px;
+        background-color: blue;
+    }
+    #divazul2{
+        height: 270px;
+        background-color: blue;
+    }
+    #divazul3{
+        height: 270px;
+        background-color: blue;
+    }
+    #divgris1{
+        display: flex;
+        height: 80px;
+        background-color: grey;
+    }
+    #divgris2{
+        flex: content;
+        height: 80px;
+        background-color: grey;
+    }
+    #divgris3{
+        display: flex;
+        height: 80px;
+        background-color: grey;
+    }
+    #divgris4{
+        display: flex;
+        height: 80px;
+        background-color: grey;
+    }
+}
+
+@media(max-width:1024px) {}
