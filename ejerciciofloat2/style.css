@@ -1,31 +1,31 @@
 header {
     background-color: #fe0000;
-    height: 100px;
+    height: 85px;
     clear: left;
 }
 
 nav {
     background-color: #007fff;
-    height: 20px;
+    height: 15px;
     clear: left;
 }
 
 section {
     background-color: #fec6c5;
     width: 60%;
-    height: 500px;
+    height: 440px;
     float: left;
 }
 
 aside {
     background-color: #fe80fe;
     float: right;
-    height: 500px;
+    height: 440px;
     width: 37%;
 }
 
 footer {
     background-color: #80ff00;
-    height: 20px;
+    height: 15px;
     clear: left;
 }

@@ -23,7 +23,7 @@
     width: 360px;
     height: 360px;
 
-    background-color: rgba(132, 128, 128, 0.74);
+    background: linear-gradient(rgb(109, 109, 114), rgba(93, 92, 92, 0.484));
 
 }
 
