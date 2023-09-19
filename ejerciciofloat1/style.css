@@ -1,0 +1,16 @@
+
+.divGeneral{
+    display: flex;
+width: 800px;
+
+}
+.parrafoGuernica{
+    float: left;
+   margin: 10px;
+}
+#imgGuernica{
+  
+    width: 600px;
+    height: 200px;
+    float: right;
+}
