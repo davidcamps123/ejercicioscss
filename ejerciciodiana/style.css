@@ -106,3 +106,17 @@
 
 }
 
+#liniaamunt{
+    height: 360px;
+    border-left: 2px solid black;
+    top: 70px;
+    position: absolute;
+    left: 249px;
+}
+#liniahori{
+    width: 360px;
+    border-bottom: 2px solid black;
+    top: 249px;
+    position: absolute;
+    left: 70px;
+}
