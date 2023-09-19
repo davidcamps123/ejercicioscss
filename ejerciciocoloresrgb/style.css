@@ -1,0 +1,43 @@
+.divcp{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin: 10px;
+}
+
+#divColPrim{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#divrojo{
+    background-color: red;
+}
+#divverde{
+    background-color: rgb(17, 196, 55);
+}
+#divazul{
+    background-color: blue;
+}
+#divrosa{
+    background-color: rgb(243, 131, 200);
+}
+#divamarillo{
+    background-color: yellow;
+}
+#divazulcielo{
+    background-color: rgb(0, 217, 255);
+}
+.barreja{
+    display: flex;
+    align-items: center;
+   
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
